@@ -1,0 +1,29 @@
+.background-image{
+    background-color: rgb(52, 213, 160);
+}
+#title{
+    font-family: 'Hedvig Letters Serif', serif;
+}
+.icon-square{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+}
+.name{
+    color: midnightblue;
+}
+.profile-img{
+    border-radius: 50% ;
+}
+.d-bloc{
+    border-radius: 10%;
+}
+.container-footer{
+    background-color: rgb(52, 207, 155);
+}
+#Heavy{
+    font-weight: 400;
+}
+#system-he{
+    background-color: rgb(52, 213, 160);
+}
